@@ -10,7 +10,7 @@
   },
   "dependencies": {
     "@headlessui/react": "^1.7.17",
-    "@heroicons/react": "^2.0.18",
+    "@heroicons/react": "^1.0.6",
     "@types/firebase": "^3.2.1",
     "@types/node": "20.5.6",
     "@types/react": "18.2.21",
